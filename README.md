@@ -77,7 +77,7 @@ PostgreSQL
 RabbitMQ
 ```
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -163,7 +163,7 @@ Armazenamento do token
 Dashboard
 ```
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -214,7 +214,7 @@ O Dashboard é uma **visão da aplicação**, e não uma entidade ou domínio pr
 
 Os dados são fornecidos pelo BFF.
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -368,7 +368,7 @@ PUT /api/tasks/{id}
 -  Apresentar erros; 
 -  Atualizar a interface após sucesso. 
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -445,7 +445,7 @@ Exibe novo status
 
 O frontend não altera o status localmente antes de receber a confirmação da API.
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -499,7 +499,7 @@ limpa sessão
 Login
 ```
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -556,7 +556,7 @@ não autenticado
 /login
 ```
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -604,7 +604,7 @@ Redireciona para Login
 
 Na versão 1, não haverá fluxo de Refresh Token.
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -706,7 +706,7 @@ Nenhuma tarefa encontrada.
 [ Criar primeira tarefa ]
 ```
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -758,7 +758,7 @@ Os componentes devem permanecer focados em apresentação e interação da inter
 
 As regras de negócio pertencem ao backend.
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -778,7 +778,7 @@ As regras de negócio pertencem ao backend.
 | GitHub Actions       | CI                       |
 
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -851,7 +851,7 @@ kifeito-frontend
 └── README.md
 ```
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -875,7 +875,7 @@ As configurações específicas de ambiente não devem ser armazenadas diretamen
 
 > Informações sensíveis não devem ser incluídas no frontend, pois o código frontend é distribuído para o navegador.
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -898,7 +898,7 @@ RabbitMQ
 
 Em produção, o frontend poderá ser servido por um servidor web como **Nginx**, enquanto o BFF permanece responsável pela API.
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -909,7 +909,7 @@ O serviço terá testes unitários para as regras de interface e testes de integ
 - **Testes unitários:** validação de formulários, componentes, navegação, guards e estados da interface. 
 - **Testes de integração:** BFF, autenticação e principais fluxos de interação da aplicação. 
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -941,7 +941,7 @@ Para manter a complexidade proporcional à necessidade do sistema, a versão 1 n
 
 Esses recursos poderão ser avaliados em versões futuras conforme a necessidade real do produto.
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
 ---
 
@@ -955,7 +955,5 @@ O código-fonte, a aplicação, a identidade visual, a documentação e demais c
 
 A utilização, cópia, modificação, distribuição ou comercialização de qualquer parte do projeto depende de autorização expressa do detentor dos direitos.
 
-⬆️ Voltar ao índice
+⬆️ [Voltar ao índice](#-índice)
 
-```
-```
